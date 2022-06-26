@@ -207,7 +207,7 @@ function App() {
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={"example"} src={"https://persiancheetah.xyz/wp-content/uploads/2022/06/sample.gif"} />
+            <StyledImg alt={"example"} src={"https://persiancheetah.xyz/wp-content/uploads/2022/06/women.gif"} />
           </s.Container>
           <s.SpacerLarge />
           <s.Container
@@ -401,7 +401,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/example.gif"}
+              src={"https://persiancheetah.xyz/wp-content/uploads/2022/06/men.gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
