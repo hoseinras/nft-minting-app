@@ -207,7 +207,7 @@ function App() {
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={"example"} src={"https://persiancheetah.xyz/wp-content/uploads/2022/06/men.gif"} />
+            <StyledImg alt={"example"} src={"https://persiancheetah.xyz/wp-content/uploads/2022/06/sample.gif"} />
           </s.Container>
           <s.SpacerLarge />
           <s.Container
