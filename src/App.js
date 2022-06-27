@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://persiancheetah.xyz/wp-content/uploads/2022/06/Roadmap.pdf", "_blank");
                 }}
                 style={{
                   margin: "5px",
