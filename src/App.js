@@ -202,7 +202,7 @@ function App() {
         image={CONFIG.SHOW_BACKGROUND ? "http://persiancheetah.xyz/wp-content/uploads/2022/06/monterajpg03.jpg" : null}
       >
         <a href={CONFIG.MARKETPLACE_LINK}>
-          <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
+          <StyledLogo alt={"logo"} src={"https://persiancheetah.xyz/wp-content/uploads/2022/06/PClogosale.png"} />
         </a>
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
