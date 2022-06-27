@@ -1,12 +1,12 @@
 {
-  "CONTRACT_ADDRESS": "0xd220d2e543858baf9256ff934b81e55cddfa57c8",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xd220d2e543858baf9256ff934b81e55cddfa57c8",
+  "CONTRACT_ADDRESS": "0x6254f31782276bae9000ac6418108E983a229875",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/00x6254f31782276bae9000ac6418108E983a229875",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "Persian Cheetah NFT Collection",
+  "NFT_NAME": "Persian Cheetah  Collection",
   "SYMBOL": "PCNFT",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 40000000000000000,
