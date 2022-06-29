@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Persian Cheetah  Collection",
   "SYMBOL": "PCNFT",
-  "MAX_SUPPLY": 1000,
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 40000000000000000,
   "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
