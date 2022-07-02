@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xe86e21bBa062c35B9a6B7870387B17f4E4aa134A",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xe86e21bBa062c35B9a6B7870387B17f4E4aa134A",
+  "CONTRACT_ADDRESS": "0xd59f418ab48e3ff0a4e152426b23010b4c0c76ed",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd59f418ab48e3ff0a4e152426b23010b4c0c76ed",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
-  "NFT_NAME": "Persian Cheetah  Collection",
+  "NFT_NAME": "Persian Cheetahs Collection",
   "SYMBOL": "PCNFT",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 40000000000000000,
-  "DISPLAY_COST": 0.04,
+  "DISPLAY_COST": 20,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "ADDresse Opensea",
